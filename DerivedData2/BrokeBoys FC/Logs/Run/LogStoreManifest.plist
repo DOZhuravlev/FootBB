@@ -5,6 +5,2251 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0479F6DD-88CA-46AB-8C29-232C60C14944</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0479F6DD-88CA-46AB-8C29-232C60C14944.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155576.24950802</real>
+			<key>timeStoppedRecording</key>
+			<real>684155704.584957</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>0479F6DD-88CA-46AB-8C29-232C60C14944</string>
+		</dict>
+		<key>069C80B7-3AD3-4A6D-B949-7D959FB13B7E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>069C80B7-3AD3-4A6D-B949-7D959FB13B7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684054009.78165996</real>
+			<key>timeStoppedRecording</key>
+			<real>684054062.75654805</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>069C80B7-3AD3-4A6D-B949-7D959FB13B7E</string>
+		</dict>
+		<key>0B00F003-BA6E-4B80-91A2-5B9463EAED7B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B00F003-BA6E-4B80-91A2-5B9463EAED7B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224468.16978097</real>
+			<key>timeStoppedRecording</key>
+			<real>684224578.66893005</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>0B00F003-BA6E-4B80-91A2-5B9463EAED7B</string>
+		</dict>
+		<key>1008FF25-B185-4DCE-941C-14EAD9621089</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1008FF25-B185-4DCE-941C-14EAD9621089.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684174950.36236</real>
+			<key>timeStoppedRecording</key>
+			<real>684175006.29524505</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>1008FF25-B185-4DCE-941C-14EAD9621089</string>
+		</dict>
+		<key>109252E0-EC97-434E-8C07-587BC212E6F8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>109252E0-EC97-434E-8C07-587BC212E6F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175012.98241699</real>
+			<key>timeStoppedRecording</key>
+			<real>684175221.18150795</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>109252E0-EC97-434E-8C07-587BC212E6F8</string>
+		</dict>
+		<key>115E96C2-6791-4CC9-96D9-680FD13940DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>115E96C2-6791-4CC9-96D9-680FD13940DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684159574.40129006</real>
+			<key>timeStoppedRecording</key>
+			<real>684159859.57776594</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>115E96C2-6791-4CC9-96D9-680FD13940DD</string>
+		</dict>
+		<key>1486968A-44B4-4DB5-8D30-E8CD51A204A6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1486968A-44B4-4DB5-8D30-E8CD51A204A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175227.66384995</real>
+			<key>timeStoppedRecording</key>
+			<real>684175294.47496796</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>1486968A-44B4-4DB5-8D30-E8CD51A204A6</string>
+		</dict>
+		<key>151257A8-E5D7-44E0-9E4C-5B27EEC5C174</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>151257A8-E5D7-44E0-9E4C-5B27EEC5C174.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155422.95131898</real>
+			<key>timeStoppedRecording</key>
+			<real>684155439.51607502</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>151257A8-E5D7-44E0-9E4C-5B27EEC5C174</string>
+		</dict>
+		<key>1800AFEA-8319-470D-AC1B-3BD5480706F9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1800AFEA-8319-470D-AC1B-3BD5480706F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684080733.79952705</real>
+			<key>timeStoppedRecording</key>
+			<real>684139581.44173396</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>1800AFEA-8319-470D-AC1B-3BD5480706F9</string>
+		</dict>
+		<key>1ADFF723-355C-48F0-85FD-66E600FD5AE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1ADFF723-355C-48F0-85FD-66E600FD5AE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176393.30714703</real>
+			<key>timeStoppedRecording</key>
+			<real>684176653.08714402</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>1ADFF723-355C-48F0-85FD-66E600FD5AE6</string>
+		</dict>
+		<key>2067F06B-166A-4749-B459-E1E901A6D75B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2067F06B-166A-4749-B459-E1E901A6D75B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684159866.10699499</real>
+			<key>timeStoppedRecording</key>
+			<real>684161380.61632097</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>2067F06B-166A-4749-B459-E1E901A6D75B</string>
+		</dict>
+		<key>20A0DCEF-F262-42D0-9905-BE4FA8F194C8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>20A0DCEF-F262-42D0-9905-BE4FA8F194C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176269.58915603</real>
+			<key>timeStoppedRecording</key>
+			<real>684176287.35399306</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>20A0DCEF-F262-42D0-9905-BE4FA8F194C8</string>
+		</dict>
+		<key>20CEACCD-C882-44E5-BE01-50F4463E8177</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>20CEACCD-C882-44E5-BE01-50F4463E8177.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161454.41169095</real>
+			<key>timeStoppedRecording</key>
+			<real>684161780.20981205</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>20CEACCD-C882-44E5-BE01-50F4463E8177</string>
+		</dict>
+		<key>263B1729-E9F9-460D-8116-7148670813E7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>263B1729-E9F9-460D-8116-7148670813E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684141531.16115904</real>
+			<key>timeStoppedRecording</key>
+			<real>684141673.62054503</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>263B1729-E9F9-460D-8116-7148670813E7</string>
+		</dict>
+		<key>2D14155C-3757-46A0-A7B8-09709A733185</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2D14155C-3757-46A0-A7B8-09709A733185.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175908.34612596</real>
+			<key>timeStoppedRecording</key>
+			<real>684175965.79083896</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>2D14155C-3757-46A0-A7B8-09709A733185</string>
+		</dict>
+		<key>2EF8091E-67EB-4BFC-901E-7E73618BDC5A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2EF8091E-67EB-4BFC-901E-7E73618BDC5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176659.90481699</real>
+			<key>timeStoppedRecording</key>
+			<real>684223769.83016801</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>2EF8091E-67EB-4BFC-901E-7E73618BDC5A</string>
+		</dict>
+		<key>2F4CEB7D-01C8-4A04-B981-C64307C81598</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F4CEB7D-01C8-4A04-B981-C64307C81598.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684174846.86219096</real>
+			<key>timeStoppedRecording</key>
+			<real>684174943.45079505</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>2F4CEB7D-01C8-4A04-B981-C64307C81598</string>
+		</dict>
+		<key>3A78C9EE-AC6F-4F65-8818-5477B826C5E2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3A78C9EE-AC6F-4F65-8818-5477B826C5E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684141679.99858201</real>
+			<key>timeStoppedRecording</key>
+			<real>684154670.86192799</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>3A78C9EE-AC6F-4F65-8818-5477B826C5E2</string>
+		</dict>
+		<key>3B3403DE-DBDD-4F41-B89E-6A70B18F096F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3B3403DE-DBDD-4F41-B89E-6A70B18F096F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161868.63649595</real>
+			<key>timeStoppedRecording</key>
+			<real>684161884.05302596</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>3B3403DE-DBDD-4F41-B89E-6A70B18F096F</string>
+		</dict>
+		<key>41819F0E-9F2D-45FA-B401-3DB8C383D019</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>41819F0E-9F2D-45FA-B401-3DB8C383D019.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684139591.21932995</real>
+			<key>timeStoppedRecording</key>
+			<real>684140489.32801902</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>41819F0E-9F2D-45FA-B401-3DB8C383D019</string>
+		</dict>
+		<key>49144B95-53C6-4FE7-A4AE-218088038CDE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>49144B95-53C6-4FE7-A4AE-218088038CDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684058516.53638005</real>
+			<key>timeStoppedRecording</key>
+			<real>684080605.70657802</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>49144B95-53C6-4FE7-A4AE-218088038CDE</string>
+		</dict>
+		<key>51558592-D467-46E2-B1F9-B12A88AE3576</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>51558592-D467-46E2-B1F9-B12A88AE3576.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684223776.93482006</real>
+			<key>timeStoppedRecording</key>
+			<real>684223798.01383996</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>51558592-D467-46E2-B1F9-B12A88AE3576</string>
+		</dict>
+		<key>555F81A1-FAF7-4731-8E8E-424733AB132F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>555F81A1-FAF7-4731-8E8E-424733AB132F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684080675.66749895</real>
+			<key>timeStoppedRecording</key>
+			<real>684080727.25116503</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>555F81A1-FAF7-4731-8E8E-424733AB132F</string>
+		</dict>
+		<key>585DD97B-4B34-474C-90AC-83891D0BE6F4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>585DD97B-4B34-474C-90AC-83891D0BE6F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684165576.79150796</real>
+			<key>timeStoppedRecording</key>
+			<real>684165613.72419</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>585DD97B-4B34-474C-90AC-83891D0BE6F4</string>
+		</dict>
+		<key>5A35F376-9F30-4797-A4CA-675F5DC1329E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A35F376-9F30-4797-A4CA-675F5DC1329E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176087.47205698</real>
+			<key>timeStoppedRecording</key>
+			<real>684176262.78015697</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>5A35F376-9F30-4797-A4CA-675F5DC1329E</string>
+		</dict>
+		<key>5AB53D93-4C24-4490-985D-F0026154BE65</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5AB53D93-4C24-4490-985D-F0026154BE65.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684162336.09654498</real>
+			<key>timeStoppedRecording</key>
+			<real>684163782.55388999</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>5AB53D93-4C24-4490-985D-F0026154BE65</string>
+		</dict>
+		<key>67C975B1-4EC0-4350-A695-D0EBDE1C56B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67C975B1-4EC0-4350-A695-D0EBDE1C56B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224585.45771694</real>
+			<key>timeStoppedRecording</key>
+			<real>684224680.09995794</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>67C975B1-4EC0-4350-A695-D0EBDE1C56B2</string>
+		</dict>
+		<key>6E7A7E70-BE4E-4BC5-BE51-D01CFDF59B08</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6E7A7E70-BE4E-4BC5-BE51-D01CFDF59B08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224789.69713497</real>
+			<key>timeStoppedRecording</key>
+			<real>684225906.15041196</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>6E7A7E70-BE4E-4BC5-BE51-D01CFDF59B08</string>
+		</dict>
+		<key>7C0FDE3E-C296-406B-B2E2-7CA372E6EE4E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C0FDE3E-C296-406B-B2E2-7CA372E6EE4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175451.53581595</real>
+			<key>timeStoppedRecording</key>
+			<real>684175529.68974698</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>7C0FDE3E-C296-406B-B2E2-7CA372E6EE4E</string>
+		</dict>
+		<key>83D51BE3-4DE9-4C03-A284-1C1D4FEFCB9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>83D51BE3-4DE9-4C03-A284-1C1D4FEFCB9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176049.65030003</real>
+			<key>timeStoppedRecording</key>
+			<real>684176080.72299898</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>83D51BE3-4DE9-4C03-A284-1C1D4FEFCB9A</string>
+		</dict>
+		<key>87DF5809-D1BF-4E30-93E8-35AFE3D6D55B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>87DF5809-D1BF-4E30-93E8-35AFE3D6D55B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175972.670573</real>
+			<key>timeStoppedRecording</key>
+			<real>684176043.09704196</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>87DF5809-D1BF-4E30-93E8-35AFE3D6D55B</string>
+		</dict>
+		<key>8E31E760-E0DD-4614-83D3-C35D6CB666BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E31E760-E0DD-4614-83D3-C35D6CB666BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684057654.13648498</real>
+			<key>timeStoppedRecording</key>
+			<real>684058509.510185</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>8E31E760-E0DD-4614-83D3-C35D6CB666BB</string>
+		</dict>
+		<key>8E628BCD-C6D2-4D53-8D06-0582614011D1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E628BCD-C6D2-4D53-8D06-0582614011D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175536.44778705</real>
+			<key>timeStoppedRecording</key>
+			<real>684175629.87348104</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>8E628BCD-C6D2-4D53-8D06-0582614011D1</string>
+		</dict>
+		<key>8F7E03A2-272D-4EC9-862C-235C971C96C4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F7E03A2-272D-4EC9-862C-235C971C96C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684159300.11270702</real>
+			<key>timeStoppedRecording</key>
+			<real>684159567.69667101</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>8F7E03A2-272D-4EC9-862C-235C971C96C4</string>
+		</dict>
+		<key>90D8049F-33C5-4D0E-A9DE-A5E15283DA7A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>90D8049F-33C5-4D0E-A9DE-A5E15283DA7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684173751.93347597</real>
+			<key>timeStoppedRecording</key>
+			<real>684174686.70729899</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>90D8049F-33C5-4D0E-A9DE-A5E15283DA7A</string>
+		</dict>
+		<key>9161AFCB-378C-4E10-A89F-959B907083C9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9161AFCB-378C-4E10-A89F-959B907083C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684053979.37293005</real>
+			<key>timeStoppedRecording</key>
+			<real>684054003.69505203</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>9161AFCB-378C-4E10-A89F-959B907083C9</string>
+		</dict>
+		<key>96835A80-7ADB-48EF-B1DB-6DEF5FB9AC8B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96835A80-7ADB-48EF-B1DB-6DEF5FB9AC8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155383.17927206</real>
+			<key>timeStoppedRecording</key>
+			<real>684155416.82887399</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>96835A80-7ADB-48EF-B1DB-6DEF5FB9AC8B</string>
+		</dict>
+		<key>9EF24B16-B281-461A-ABD1-F5F994D52302</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9EF24B16-B281-461A-ABD1-F5F994D52302.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161453.15186501</real>
+			<key>timeStoppedRecording</key>
+			<real>684161456.45635903</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>9EF24B16-B281-461A-ABD1-F5F994D52302</string>
+		</dict>
+		<key>9FF0BC4A-A9FE-4D37-B8A5-2BA46EA9567C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9FF0BC4A-A9FE-4D37-B8A5-2BA46EA9567C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684141412.00827599</real>
+			<key>timeStoppedRecording</key>
+			<real>684141437.51239097</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>9FF0BC4A-A9FE-4D37-B8A5-2BA46EA9567C</string>
+		</dict>
+		<key>B35635A9-F8BD-418D-96E7-32B0B719001C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B35635A9-F8BD-418D-96E7-32B0B719001C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161387.23689103</real>
+			<key>timeStoppedRecording</key>
+			<real>684161426.526456</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>B35635A9-F8BD-418D-96E7-32B0B719001C</string>
+		</dict>
+		<key>B356D036-B099-48B0-A086-CFF234DCE0E7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B356D036-B099-48B0-A086-CFF234DCE0E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684057208.71763003</real>
+			<key>timeStoppedRecording</key>
+			<real>684057383.77962399</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>B356D036-B099-48B0-A086-CFF234DCE0E7</string>
+		</dict>
+		<key>B4958064-BD40-49D6-B97A-D4DB93491712</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B4958064-BD40-49D6-B97A-D4DB93491712.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684140489.52060401</real>
+			<key>timeStoppedRecording</key>
+			<real>684141365.98893094</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>B4958064-BD40-49D6-B97A-D4DB93491712</string>
+		</dict>
+		<key>B5862EFC-CA66-4AD3-A550-AF04AF6A3877</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B5862EFC-CA66-4AD3-A550-AF04AF6A3877.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155817.90839505</real>
+			<key>timeStoppedRecording</key>
+			<real>684159293.11477196</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>B5862EFC-CA66-4AD3-A550-AF04AF6A3877</string>
+		</dict>
+		<key>B6A0C87B-8BA6-43FD-B452-02933D17313E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B6A0C87B-8BA6-43FD-B452-02933D17313E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155711.06486905</real>
+			<key>timeStoppedRecording</key>
+			<real>684155811.28743601</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>B6A0C87B-8BA6-43FD-B452-02933D17313E</string>
+		</dict>
+		<key>BBA7E5B5-618B-4F81-8707-04FA4013307A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BBA7E5B5-618B-4F81-8707-04FA4013307A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684141372.71624696</real>
+			<key>timeStoppedRecording</key>
+			<real>684141405.93083405</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>BBA7E5B5-618B-4F81-8707-04FA4013307A</string>
+		</dict>
+		<key>BC9AE017-531C-4DA5-8F9C-D12EA512CFEA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BC9AE017-531C-4DA5-8F9C-D12EA512CFEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684052276.14710903</real>
+			<key>timeStoppedRecording</key>
+			<real>684053398.02336299</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>BC9AE017-531C-4DA5-8F9C-D12EA512CFEA</string>
+		</dict>
+		<key>C0A208BB-9D9B-491F-BD03-1E58F46F7E29</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C0A208BB-9D9B-491F-BD03-1E58F46F7E29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684162248.27440703</real>
+			<key>timeStoppedRecording</key>
+			<real>684162329.60339904</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>C0A208BB-9D9B-491F-BD03-1E58F46F7E29</string>
+		</dict>
+		<key>C2915999-F1A5-4B50-AADC-21165D9EF8E8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2915999-F1A5-4B50-AADC-21165D9EF8E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684154677.77258301</real>
+			<key>timeStoppedRecording</key>
+			<real>684155376.53213203</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>C2915999-F1A5-4B50-AADC-21165D9EF8E8</string>
+		</dict>
+		<key>C8C6714A-A102-4B57-99F2-BF84C997245E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C8C6714A-A102-4B57-99F2-BF84C997245E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684057390.51223397</real>
+			<key>timeStoppedRecording</key>
+			<real>684057409.46405804</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>C8C6714A-A102-4B57-99F2-BF84C997245E</string>
+		</dict>
+		<key>CCF148C2-A943-4F09-90E4-BF7A4F4CEA25</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CCF148C2-A943-4F09-90E4-BF7A4F4CEA25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224391.16272199</real>
+			<key>timeStoppedRecording</key>
+			<real>684224426.28448498</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>CCF148C2-A943-4F09-90E4-BF7A4F4CEA25</string>
+		</dict>
+		<key>CD76B85A-68AB-4D48-9E4A-3DA1D36CBF96</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD76B85A-68AB-4D48-9E4A-3DA1D36CBF96.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684141443.64130402</real>
+			<key>timeStoppedRecording</key>
+			<real>684141471.13576603</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>CD76B85A-68AB-4D48-9E4A-3DA1D36CBF96</string>
+		</dict>
+		<key>CFA20B08-6D7B-4DF3-9592-E11C9B6502D1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CFA20B08-6D7B-4DF3-9592-E11C9B6502D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161786.70626497</real>
+			<key>timeStoppedRecording</key>
+			<real>684161814.49476802</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>CFA20B08-6D7B-4DF3-9592-E11C9B6502D1</string>
+		</dict>
+		<key>D3BD4C8D-CAB9-4E49-BC4C-1B21E44E348F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D3BD4C8D-CAB9-4E49-BC4C-1B21E44E348F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161913.91443396</real>
+			<key>timeStoppedRecording</key>
+			<real>684161922.421785</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>D3BD4C8D-CAB9-4E49-BC4C-1B21E44E348F</string>
+		</dict>
+		<key>D488BFDB-CF28-4917-A81E-B7DB554BE624</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D488BFDB-CF28-4917-A81E-B7DB554BE624.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175342.102332</real>
+			<key>timeStoppedRecording</key>
+			<real>684175361.47132504</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>D488BFDB-CF28-4917-A81E-B7DB554BE624</string>
+		</dict>
+		<key>DCBBCC7C-E080-4CF6-AF8B-42C7AD82D2AC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DCBBCC7C-E080-4CF6-AF8B-42C7AD82D2AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224686.63603902</real>
+			<key>timeStoppedRecording</key>
+			<real>684224750.58062601</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>DCBBCC7C-E080-4CF6-AF8B-42C7AD82D2AC</string>
+		</dict>
+		<key>DE12AC64-1E1A-4C8A-8052-D9A4F73190AD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE12AC64-1E1A-4C8A-8052-D9A4F73190AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684161821.21803498</real>
+			<key>timeStoppedRecording</key>
+			<real>684161861.69043696</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>DE12AC64-1E1A-4C8A-8052-D9A4F73190AD</string>
+		</dict>
+		<key>E6B4EEF8-06F4-4938-B923-E0E16CF5B3A1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6B4EEF8-06F4-4938-B923-E0E16CF5B3A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684224432.67435205</real>
+			<key>timeStoppedRecording</key>
+			<real>684224457.55086195</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>E6B4EEF8-06F4-4938-B923-E0E16CF5B3A1</string>
+		</dict>
+		<key>E7171EB9-EF3B-4859-A173-C578C01F69CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E7171EB9-EF3B-4859-A173-C578C01F69CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684165620.46996295</real>
+			<key>timeStoppedRecording</key>
+			<real>684173607.23129702</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>E7171EB9-EF3B-4859-A173-C578C01F69CA</string>
+		</dict>
+		<key>EAE12D42-2C1E-41D5-B504-5ED18E3DAABD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAE12D42-2C1E-41D5-B504-5ED18E3DAABD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155545.22477806</real>
+			<key>timeStoppedRecording</key>
+			<real>684155570.31129396</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>EAE12D42-2C1E-41D5-B504-5ED18E3DAABD</string>
+		</dict>
+		<key>ECF31D6B-2B52-4BCB-9F84-B4AA25AEE68F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ECF31D6B-2B52-4BCB-9F84-B4AA25AEE68F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684175879.28243899</real>
+			<key>timeStoppedRecording</key>
+			<real>684175908.29798102</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>ECF31D6B-2B52-4BCB-9F84-B4AA25AEE68F</string>
+		</dict>
+		<key>EE25FCC4-8E3E-42A8-87BC-55E94666B997</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EE25FCC4-8E3E-42A8-87BC-55E94666B997.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684053928.68112302</real>
+			<key>timeStoppedRecording</key>
+			<real>684053972.66487098</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>EE25FCC4-8E3E-42A8-87BC-55E94666B997</string>
+		</dict>
+		<key>F07EDA05-867E-485E-92EC-C45FB5189C6A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F07EDA05-867E-485E-92EC-C45FB5189C6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684176304.85699701</real>
+			<key>timeStoppedRecording</key>
+			<real>684176386.49033999</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>F07EDA05-867E-485E-92EC-C45FB5189C6A</string>
+		</dict>
+		<key>F370B8CE-335B-4B83-880B-44EF4939EB75</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F370B8CE-335B-4B83-880B-44EF4939EB75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>683799868.98732603</real>
+			<key>timeStoppedRecording</key>
+			<real>684050810.39024794</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>F370B8CE-335B-4B83-880B-44EF4939EB75</string>
+		</dict>
+		<key>F3A46C9F-C4EE-4BA6-A753-A759B3154D87</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3A46C9F-C4EE-4BA6-A753-A759B3154D87.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684173607.47036302</real>
+			<key>timeStoppedRecording</key>
+			<real>684173745.02589095</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>F3A46C9F-C4EE-4BA6-A753-A759B3154D87</string>
+		</dict>
+		<key>F5250A2A-CA0D-4C3D-AB00-1140CA2F6377</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F5250A2A-CA0D-4C3D-AB00-1140CA2F6377.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684155445.50736499</real>
+			<key>timeStoppedRecording</key>
+			<real>684155538.58987105</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>F5250A2A-CA0D-4C3D-AB00-1140CA2F6377</string>
+		</dict>
+		<key>FC3E5FF7-B82D-498F-A2DC-0A1A5FD0B883</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC3E5FF7-B82D-498F-A2DC-0A1A5FD0B883.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BrokeBoys FC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BrokeBoys FC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BrokeBoys FC</string>
+			<key>timeStartedRecording</key>
+			<real>684053404.42748904</real>
+			<key>timeStoppedRecording</key>
+			<real>684053906.30445194</real>
+			<key>title</key>
+			<string>Run BrokeBoys FC</string>
+			<key>uniqueIdentifier</key>
+			<string>FC3E5FF7-B82D-498F-A2DC-0A1A5FD0B883</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

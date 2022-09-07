@@ -9,21 +9,33 @@
 /* Begin PBXBuildFile section */
 		BDC33F3228B520DC006FD2F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */; };
 		BDC33F3428B520DC006FD2F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */; };
-		BDC33F3628B520DC006FD2F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F3528B520DC006FD2F4 /* ViewController.swift */; };
 		BDC33F3928B520DC006FD2F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDC33F3728B520DC006FD2F4 /* Main.storyboard */; };
 		BDC33F3B28B520DD006FD2F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC33F3A28B520DD006FD2F4 /* Assets.xcassets */; };
 		BDC33F3E28B520DD006FD2F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDC33F3C28B520DD006FD2F4 /* LaunchScreen.storyboard */; };
+		BDC33F4628B52225006FD2F4 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F4528B52225006FD2F4 /* Models.swift */; };
+		BDC33F4A28B5228C006FD2F4 /* SquadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F4928B5228C006FD2F4 /* SquadViewController.swift */; };
+		BDC33F4C28B522BA006FD2F4 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F4B28B522BA006FD2F4 /* TabBarViewController.swift */; };
+		BDC33F4E28B522E4006FD2F4 /* DetailsPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F4D28B522E4006FD2F4 /* DetailsPlayerViewController.swift */; };
+		BDC33F5928BCE889006FD2F4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BDC33F5828BCE889006FD2F4 /* GoogleService-Info.plist */; };
+		BDC33F5B28BCEA11006FD2F4 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F5A28BCEA11006FD2F4 /* NetworkManager.swift */; };
+		BDC33FA728C1CB53006FD2F4 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BDC33FA628C1CB53006FD2F4 /* FirebaseFirestoreSwift */; };
+		BDC33FAA28C714D0006FD2F4 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = BDC33FA928C714D0006FD2F4 /* FirebaseFirestore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BDC33F2E28B520DC006FD2F4 /* BrokeBoys FC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BrokeBoys FC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BDC33F3528B520DC006FD2F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BDC33F3828B520DC006FD2F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BDC33F3A28B520DD006FD2F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDC33F3D28B520DD006FD2F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDC33F3F28B520DD006FD2F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDC33F4528B52225006FD2F4 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		BDC33F4928B5228C006FD2F4 /* SquadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquadViewController.swift; sourceTree = "<group>"; };
+		BDC33F4B28B522BA006FD2F4 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		BDC33F4D28B522E4006FD2F4 /* DetailsPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsPlayerViewController.swift; sourceTree = "<group>"; };
+		BDC33F5828BCE889006FD2F4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		BDC33F5A28BCEA11006FD2F4 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +43,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDC33FA728C1CB53006FD2F4 /* FirebaseFirestoreSwift in Frameworks */,
+				BDC33FAA28C714D0006FD2F4 /* FirebaseFirestore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +54,11 @@
 		BDC33F2528B520DC006FD2F4 = {
 			isa = PBXGroup;
 			children = (
+				BDC33F4D28B522E4006FD2F4 /* DetailsPlayerViewController.swift */,
+				BDC33F4B28B522BA006FD2F4 /* TabBarViewController.swift */,
+				BDC33F4928B5228C006FD2F4 /* SquadViewController.swift */,
+				BDC33F5A28BCEA11006FD2F4 /* NetworkManager.swift */,
+				BDC33F4528B52225006FD2F4 /* Models.swift */,
 				BDC33F3028B520DC006FD2F4 /* BrokeBoys FC */,
 				BDC33F2F28B520DC006FD2F4 /* Products */,
 			);
@@ -58,11 +77,11 @@
 			children = (
 				BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */,
 				BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */,
-				BDC33F3528B520DC006FD2F4 /* ViewController.swift */,
 				BDC33F3728B520DC006FD2F4 /* Main.storyboard */,
 				BDC33F3A28B520DD006FD2F4 /* Assets.xcassets */,
 				BDC33F3C28B520DD006FD2F4 /* LaunchScreen.storyboard */,
 				BDC33F3F28B520DD006FD2F4 /* Info.plist */,
+				BDC33F5828BCE889006FD2F4 /* GoogleService-Info.plist */,
 			);
 			path = "BrokeBoys FC";
 			sourceTree = "<group>";
@@ -83,6 +102,10 @@
 			dependencies = (
 			);
 			name = "BrokeBoys FC";
+			packageProductDependencies = (
+				BDC33FA628C1CB53006FD2F4 /* FirebaseFirestoreSwift */,
+				BDC33FA928C714D0006FD2F4 /* FirebaseFirestore */,
+			);
 			productName = "BrokeBoys FC";
 			productReference = BDC33F2E28B520DC006FD2F4 /* BrokeBoys FC.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +134,9 @@
 				Base,
 			);
 			mainGroup = BDC33F2528B520DC006FD2F4;
+			packageReferences = (
+				BDC33FA528C1CB53006FD2F4 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = BDC33F2F28B520DC006FD2F4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -128,6 +154,7 @@
 				BDC33F3E28B520DD006FD2F4 /* LaunchScreen.storyboard in Resources */,
 				BDC33F3B28B520DD006FD2F4 /* Assets.xcassets in Resources */,
 				BDC33F3928B520DC006FD2F4 /* Main.storyboard in Resources */,
+				BDC33F5928BCE889006FD2F4 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +165,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDC33F3628B520DC006FD2F4 /* ViewController.swift in Sources */,
+				BDC33F4E28B522E4006FD2F4 /* DetailsPlayerViewController.swift in Sources */,
 				BDC33F3228B520DC006FD2F4 /* AppDelegate.swift in Sources */,
+				BDC33F4A28B5228C006FD2F4 /* SquadViewController.swift in Sources */,
+				BDC33F4C28B522BA006FD2F4 /* TabBarViewController.swift in Sources */,
+				BDC33F5B28BCEA11006FD2F4 /* NetworkManager.swift in Sources */,
 				BDC33F3428B520DC006FD2F4 /* SceneDelegate.swift in Sources */,
+				BDC33F4628B52225006FD2F4 /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -358,6 +389,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BDC33FA528C1CB53006FD2F4 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = exactVersion;
+				version = 9.5.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BDC33FA628C1CB53006FD2F4 /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BDC33FA528C1CB53006FD2F4 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
+		};
+		BDC33FA928C714D0006FD2F4 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BDC33FA528C1CB53006FD2F4 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BDC33F2628B520DC006FD2F4 /* Project object */;
 }

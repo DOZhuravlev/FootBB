@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "98da3a4a93f0c34c58a6f087c322de58e0c13d59e7eac22b69c44adcde3727c1"
+    }
+  ],
+  "containerPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/BrokeBoys FC.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2/BrokeBoys FC/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2/BrokeBoys FC/Build/Products",
+      "derivedDataPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2",
+      "indexDataStoreFolderPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2/BrokeBoys FC/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2/BrokeBoys FC/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DerivedData2/BrokeBoys FC/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "D9E4492F-5328-4E50-A405-E200E155F501",
+          "TARGET_DEVICE_MODEL" : "iPhone14,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

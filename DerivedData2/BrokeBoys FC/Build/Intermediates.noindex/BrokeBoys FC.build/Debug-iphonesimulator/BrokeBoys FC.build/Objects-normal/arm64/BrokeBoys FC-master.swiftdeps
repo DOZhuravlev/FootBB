@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "1bd28c227519f99aaf0b03699ae9e5c336825e9cc7c2834955a850a6c52d226d"
+build_start_time: [1662533106, 332885026]
+build_end_time: [1662533106, 606688022]
+inputs:
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/BrokeBoys FC/AppDelegate.swift": [1662032487, 513686418]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/BrokeBoys FC/SceneDelegate.swift": [1661266268, 159361124]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/DetailsPlayerViewController.swift": [1662032487, 520364999]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/Models.swift": [1662365709, 282938003]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/NetworkManager.swift": [1662533105, 919927120]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/SquadViewController.swift": [1662531982, 871905565]
+  "/Users/zhuravlevdmitry/Desktop/BrokeBoys FC/TabBarViewController.swift": [1662032718, 321794986]
