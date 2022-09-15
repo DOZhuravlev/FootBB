@@ -11,8 +11,8 @@
 	<string>Dispatch</string>
 	<string>FirebaseCoreExtension</string>
 	<string>FBSDKCoreKit</string>
-	<string>HeartbeatLoggingTestUtils</string>
 	<string>doesn</string>
+	<string>HeartbeatLoggingTestUtils</string>
 	<string>FBLPromisesTestHelpers</string>
 	<string>FirebaseABTesting</string>
 	<string>FBLPromises</string>
@@ -27,13 +27,13 @@
 	<string>FirebaseInstallations</string>
 	<string>FirebaseRemoteConfig</string>
 	<string>UIKit</string>
-	<string>public</string>
 	<string>mach</string>
+	<string>public</string>
+	<string>MobileCoreServices</string>
 	<string>FirebaseCombineSwift</string>
 	<string>FirebaseAnalytics</string>
-	<string>MobileCoreServices</string>
-	<string>CoreTelephony</string>
 	<string>DeviceCheck</string>
+	<string>CoreTelephony</string>
 	<string>Firebase</string>
 	<string>FirebaseFunctions</string>
 	<string>Promises</string>
@@ -61,25 +61,25 @@
 	<string>of</string>
 	<string>SharedTestUtilities</string>
 	<string>ClockKit</string>
-	<string>complicate</string>
 	<string>Cocoa</string>
+	<string>a</string>
 	<string>Foundation</string>
 	<string>SwiftProtobufPluginLibrary</string>
 	<string>FirebaseDynamicLinks</string>
-	<string>a</string>
+	<string>Network</string>
 	<string>FirebaseAuth</string>
 	<string>FirebaseAppDistribution</string>
-	<string>GTMSessionFetcherFull</string>
-	<string>EarlGrey</string>
 	<string>SystemConfiguration</string>
+	<string>EarlGrey</string>
+	<string>GTMSessionFetcherFull</string>
 	<string>FirebaseStorage</string>
 	<string>GTMSessionFetcherCore</string>
 	<string>FirebaseMLModelDownloader</string>
-	<string>should</string>
-	<string>GoogleUtilitiesComponents</string>
-	<string>WatchKit</string>
-	<string>Network</string>
 	<string>TensorFlowLite</string>
+	<string>should</string>
+	<string>WatchKit</string>
+	<string>GoogleUtilitiesComponents</string>
+	<string>complicate</string>
 	<string>WebKit</string>
 	<string>Security</string>
 	<string>FirebaseCore</string>
@@ -98,10 +98,10 @@
 	<string>FirebaseFirestore</string>
 	<string>FirebaseAuthCombineSwift</string>
 	<string>SwiftUI</string>
-	<string>FirebaseFirestoreCombineSwift</string>
+	<string>os</string>
 	<string>FirebaseFirestoreTestingSupport</string>
 	<string>FirebaseDatabaseSwift</string>
-	<string>os</string>
+	<string>FirebaseFirestoreCombineSwift</string>
 	<string>GCDWebServer</string>
 	<string>objc</string>
 	<string>FirebaseSharedSwift</string>
@@ -111,9 +111,9 @@
 	<string>FirebasePerformance</string>
 	<string>FirebaseCoreInternal</string>
 	<string>GTMSessionFetcherLogView</string>
-	<string>GTMSessionFetcher</string>
-	<string>Swift</string>
 	<string>CoreFoundation</string>
 	<string>GoogleSignIn</string>
+	<string>GTMSessionFetcher</string>
+	<string>Swift</string>
 </array>
 </plist>

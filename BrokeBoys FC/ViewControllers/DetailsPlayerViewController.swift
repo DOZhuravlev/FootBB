@@ -17,10 +17,13 @@ class DetailsPlayerViewController: UIViewController {
     var player: Player!
     
     
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       // aboutPlayerLabel.text = player.contacts
-      //  picturePlayerImageView.image = UIImage(named: player.image)
+        aboutPlayerLabel.text = player.youtube
+  
+        
+        
     }
 }

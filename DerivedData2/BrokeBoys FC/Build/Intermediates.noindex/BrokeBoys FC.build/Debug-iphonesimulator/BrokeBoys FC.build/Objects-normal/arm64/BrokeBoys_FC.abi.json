@@ -850,6 +850,634 @@
     },
     {
       "kind": "TypeDecl",
+      "name": "NewsTableViewCell",
+      "printedName": "NewsTableViewCell",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "newsImageView",
+          "printedName": "newsImageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "BrokeBoys_FC.NewsImageView?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(py)newsImageView",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC09newsImageF0AA0diF0CSgvp",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 0,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "BrokeBoys_FC.NewsImageView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NewsImageView",
+                      "printedName": "BrokeBoys_FC.NewsImageView",
+                      "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)newsImageView",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC09newsImageF0AA0diF0CSgvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "BrokeBoys_FC.NewsImageView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NewsImageView",
+                      "printedName": "BrokeBoys_FC.NewsImageView",
+                      "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)setNewsImageView:",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC09newsImageF0AA0diF0CSgvs",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC17NewsTableViewCellC09newsImageF0AA0diF0CSgvM",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC09newsImageF0AA0diF0CSgvM",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "titleNewsLabel",
+          "printedName": "titleNewsLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UILabel?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(py)titleNewsLabel",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC05titleD5LabelSo7UILabelCSgvp",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 1,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)titleNewsLabel",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC05titleD5LabelSo7UILabelCSgvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)setTitleNewsLabel:",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC05titleD5LabelSo7UILabelCSgvs",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC17NewsTableViewCellC05titleD5LabelSo7UILabelCSgvM",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC05titleD5LabelSo7UILabelCSgvM",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "subtitleNewsLabel",
+          "printedName": "subtitleNewsLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UILabel?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(py)subtitleNewsLabel",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC08subtitleD5LabelSo7UILabelCSgvp",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 2,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)subtitleNewsLabel",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC08subtitleD5LabelSo7UILabelCSgvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)setSubtitleNewsLabel:",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC08subtitleD5LabelSo7UILabelCSgvs",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC17NewsTableViewCellC08subtitleD5LabelSo7UILabelCSgvM",
+              "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC08subtitleD5LabelSo7UILabelCSgvM",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "configure",
+          "printedName": "configure(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.News?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "News",
+                  "printedName": "BrokeBoys_FC.News",
+                  "usr": "s:12BrokeBoys_FC4NewsV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12BrokeBoys_FC17NewsTableViewCellC9configure4withyAA0D0VSg_tF",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC9configure4withyAA0D0VSg_tF",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "awakeFromNib",
+          "printedName": "awakeFromNib()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)awakeFromNib",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC12awakeFromNibyyF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "awakeFromNib",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "setSelected",
+          "printedName": "setSelected(_:animated:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)setSelected:animated:",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC11setSelected_8animatedySb_SbtF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "setSelected:animated:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:reuseIdentifier:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsTableViewCell",
+              "printedName": "BrokeBoys_FC.NewsTableViewCell",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CellStyle",
+              "printedName": "UIKit.UITableViewCell.CellStyle",
+              "usr": "c:@E@UITableViewCellStyle"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)initWithStyle:reuseIdentifier:",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC5style15reuseIdentifierACSo07UITablefG5StyleV_SSSgtcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "intro_iOS": "3.0",
+          "objc_name": "initWithStyle:reuseIdentifier:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override",
+            "Available"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.NewsTableViewCell?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NewsTableViewCell",
+                  "printedName": "BrokeBoys_FC.NewsTableViewCell",
+                  "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell(im)initWithCoder:",
+          "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsTableViewCell",
+      "mangledName": "$s12BrokeBoys_FC17NewsTableViewCellC",
+      "moduleName": "BrokeBoys_FC",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewCell",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewCell",
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "BrokeBoys_FC",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
       "name": "SquadViewController",
       "printedName": "SquadViewController",
       "children": [
@@ -881,8 +1509,7 @@
           "declAttributes": [
             "Custom",
             "HasInitialValue",
-            "HasStorage",
-            "RawDocComment"
+            "HasStorage"
           ],
           "fixedbinaryorder": 0,
           "hasStorage": true,
@@ -1330,6 +1957,440 @@
     },
     {
       "kind": "TypeDecl",
+      "name": "MatchesViewController",
+      "printedName": "MatchesViewController",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "matches",
+          "printedName": "matches",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[BrokeBoys_FC.Match]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Match",
+                  "printedName": "BrokeBoys_FC.Match",
+                  "usr": "s:12BrokeBoys_FC5MatchV"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvp",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvp",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[BrokeBoys_FC.Match]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Match",
+                      "printedName": "BrokeBoys_FC.Match",
+                      "usr": "s:12BrokeBoys_FC5MatchV"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvg",
+              "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[BrokeBoys_FC.Match]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Match",
+                      "printedName": "BrokeBoys_FC.Match",
+                      "usr": "s:12BrokeBoys_FC5MatchV"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvs",
+              "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvs",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvM",
+              "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC7matchesSayAA5MatchVGvM",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidLoad",
+          "printedName": "viewDidLoad()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)viewDidLoad",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC11viewDidLoadyyF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLoad",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:numberOfRowsInSection:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)tableView:numberOfRowsInSection:",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC05tableE0_21numberOfRowsInSectionSiSo07UITableE0C_SitF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "tableView:numberOfRowsInSection:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:cellForRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableViewCell",
+              "printedName": "UIKit.UITableViewCell",
+              "usr": "c:objc(cs)UITableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)tableView:cellForRowAtIndexPath:",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC05tableE0_12cellForRowAtSo07UITableE4CellCSo0lE0C_10Foundation9IndexPathVtF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "tableView:cellForRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MatchesViewController",
+              "printedName": "BrokeBoys_FC.MatchesViewController",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Style",
+              "printedName": "UIKit.UITableView.Style",
+              "usr": "c:@E@UITableViewStyle"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)initWithStyle:",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC5styleACSo07UITableE5StyleV_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithStyle:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(nibName:bundle:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MatchesViewController",
+              "printedName": "BrokeBoys_FC.MatchesViewController",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.Bundle?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bundle",
+                  "printedName": "Foundation.Bundle",
+                  "usr": "c:objc(cs)NSBundle"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)initWithNibName:bundle:",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithNibName:bundle:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.MatchesViewController?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "MatchesViewController",
+                  "printedName": "BrokeBoys_FC.MatchesViewController",
+                  "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController(im)initWithCoder:",
+          "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@BrokeBoys_FC@objc(cs)MatchesViewController",
+      "mangledName": "$s12BrokeBoys_FC21MatchesViewControllerC",
+      "moduleName": "BrokeBoys_FC",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewController",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewController",
+        "UIKit.UIViewController",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "BrokeBoys_FC",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
       "name": "TabBarViewController",
       "printedName": "TabBarViewController",
       "children": [
@@ -1544,15 +2605,15 @@
     },
     {
       "kind": "Import",
-      "name": "Foundation",
-      "printedName": "Foundation",
+      "name": "FirebaseFirestoreSwift",
+      "printedName": "FirebaseFirestoreSwift",
       "declKind": "Import",
       "moduleName": "BrokeBoys_FC"
     },
     {
       "kind": "Import",
-      "name": "FirebaseFirestoreSwift",
-      "printedName": "FirebaseFirestoreSwift",
+      "name": "Foundation",
+      "printedName": "Foundation",
       "declKind": "Import",
       "moduleName": "BrokeBoys_FC"
     },
@@ -1738,30 +2799,129 @@
           "sugared_genericSig": "<T where T : Swift.Decodable>",
           "isOpen": true,
           "funcSelfKind": "NonMutating"
-        },
-        {
-          "kind": "Constructor",
-          "name": "init",
-          "printedName": "init()",
-          "children": [
-            {
-              "kind": "TypeNominal",
-              "name": "NetworkManager",
-              "printedName": "BrokeBoys_FC.NetworkManager",
-              "usr": "s:12BrokeBoys_FC14NetworkManagerC"
-            }
-          ],
-          "declKind": "Constructor",
-          "usr": "s:12BrokeBoys_FC14NetworkManagerCACycfc",
-          "mangledName": "$s12BrokeBoys_FC14NetworkManagerCACycfc",
-          "moduleName": "BrokeBoys_FC",
-          "implicit": true,
-          "init_kind": "Designated"
         }
       ],
       "declKind": "Class",
       "usr": "s:12BrokeBoys_FC14NetworkManagerC",
       "mangledName": "$s12BrokeBoys_FC14NetworkManagerC",
+      "moduleName": "BrokeBoys_FC",
+      "isOpen": true
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ImageManager",
+      "printedName": "ImageManager",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "shared",
+          "printedName": "shared",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ImageManager",
+              "printedName": "BrokeBoys_FC.ImageManager",
+              "usr": "s:12BrokeBoys_FC12ImageManagerC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC12ImageManagerC6sharedACvpZ",
+          "mangledName": "$s12BrokeBoys_FC12ImageManagerC6sharedACvpZ",
+          "moduleName": "BrokeBoys_FC",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImageManager",
+                  "printedName": "BrokeBoys_FC.ImageManager",
+                  "usr": "s:12BrokeBoys_FC12ImageManagerC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC12ImageManagerC6sharedACvgZ",
+              "mangledName": "$s12BrokeBoys_FC12ImageManagerC6sharedACvgZ",
+              "moduleName": "BrokeBoys_FC",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Transparent",
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "getImage",
+          "printedName": "getImage(imageUrl:completion:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "URL",
+              "printedName": "Foundation.URL",
+              "usr": "s:10Foundation3URLV"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Foundation.Data, Foundation.URLResponse) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Tuple",
+                  "printedName": "(Foundation.Data, Foundation.URLResponse)",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Data",
+                      "printedName": "Foundation.Data",
+                      "usr": "s:10Foundation4DataV"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "URLResponse",
+                      "printedName": "Foundation.URLResponse",
+                      "usr": "c:objc(cs)NSURLResponse"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12BrokeBoys_FC12ImageManagerC03getD08imageUrl10completiony10Foundation3URLV_yAG4DataV_So13NSURLResponseCtctF",
+          "mangledName": "$s12BrokeBoys_FC12ImageManagerC03getD08imageUrl10completiony10Foundation3URLV_yAG4DataV_So13NSURLResponseCtctF",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "s:12BrokeBoys_FC12ImageManagerC",
+      "mangledName": "$s12BrokeBoys_FC12ImageManagerC",
       "moduleName": "BrokeBoys_FC",
       "isOpen": true
     },
@@ -2182,6 +3342,582 @@
           "printedName": "CustomDebugStringConvertible",
           "usr": "s:s28CustomDebugStringConvertibleP",
           "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "BrokeBoys_FC",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NewsImageView",
+      "printedName": "NewsImageView",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "getImage",
+          "printedName": "getImage(url:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12BrokeBoys_FC13NewsImageViewC03getE03urlySS_tF",
+          "mangledName": "$s12BrokeBoys_FC13NewsImageViewC03getE03urlySS_tF",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(image:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsImageView",
+              "printedName": "BrokeBoys_FC.NewsImageView",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UIImage?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIImage",
+                  "printedName": "UIKit.UIImage",
+                  "usr": "c:objc(cs)UIImage"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView(im)initWithImage:",
+          "mangledName": "$s12BrokeBoys_FC13NewsImageViewC5imageACSo7UIImageCSg_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithImage:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(image:highlightedImage:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsImageView",
+              "printedName": "BrokeBoys_FC.NewsImageView",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UIImage?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIImage",
+                  "printedName": "UIKit.UIImage",
+                  "usr": "c:objc(cs)UIImage"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UIImage?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIImage",
+                  "printedName": "UIKit.UIImage",
+                  "usr": "c:objc(cs)UIImage"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView(im)initWithImage:highlightedImage:",
+          "mangledName": "$s12BrokeBoys_FC13NewsImageViewC5image011highlightedE0ACSo7UIImageCSg_AHtcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "intro_iOS": "3.0",
+          "objc_name": "initWithImage:highlightedImage:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override",
+            "Available"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(frame:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsImageView",
+              "printedName": "BrokeBoys_FC.NewsImageView",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CGRect",
+              "printedName": "CoreGraphics.CGRect",
+              "usr": "c:@S@CGRect"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView(im)initWithFrame:",
+          "mangledName": "$s12BrokeBoys_FC13NewsImageViewC5frameACSo6CGRectV_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithFrame:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.NewsImageView?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NewsImageView",
+                  "printedName": "BrokeBoys_FC.NewsImageView",
+                  "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView(im)initWithCoder:",
+          "mangledName": "$s12BrokeBoys_FC13NewsImageViewC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsImageView",
+      "mangledName": "$s12BrokeBoys_FC13NewsImageViewC",
+      "moduleName": "BrokeBoys_FC",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UIImageView",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UIImageView",
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Collection",
+      "printedName": "Collection",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "players",
+          "printedName": "players",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(BrokeBoys_FC.Collection.Type) -> BrokeBoys_FC.Collection",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Collection",
+                  "printedName": "BrokeBoys_FC.Collection",
+                  "usr": "s:12BrokeBoys_FC10CollectionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "BrokeBoys_FC.Collection.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Collection",
+                      "printedName": "BrokeBoys_FC.Collection",
+                      "usr": "s:12BrokeBoys_FC10CollectionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12BrokeBoys_FC10CollectionO7playersyA2CmF",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO7playersyA2CmF",
+          "moduleName": "BrokeBoys_FC",
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "matches",
+          "printedName": "matches",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(BrokeBoys_FC.Collection.Type) -> BrokeBoys_FC.Collection",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Collection",
+                  "printedName": "BrokeBoys_FC.Collection",
+                  "usr": "s:12BrokeBoys_FC10CollectionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "BrokeBoys_FC.Collection.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Collection",
+                      "printedName": "BrokeBoys_FC.Collection",
+                      "usr": "s:12BrokeBoys_FC10CollectionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12BrokeBoys_FC10CollectionO7matchesyA2CmF",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO7matchesyA2CmF",
+          "moduleName": "BrokeBoys_FC",
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Var",
+          "name": "merch",
+          "printedName": "merch",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(BrokeBoys_FC.Collection.Type) -> BrokeBoys_FC.Collection",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Collection",
+                  "printedName": "BrokeBoys_FC.Collection",
+                  "usr": "s:12BrokeBoys_FC10CollectionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "BrokeBoys_FC.Collection.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Collection",
+                      "printedName": "BrokeBoys_FC.Collection",
+                      "usr": "s:12BrokeBoys_FC10CollectionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12BrokeBoys_FC10CollectionO5merchyA2CmF",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO5merchyA2CmF",
+          "moduleName": "BrokeBoys_FC",
+          "fixedbinaryorder": 2
+        },
+        {
+          "kind": "Var",
+          "name": "news",
+          "printedName": "news",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(BrokeBoys_FC.Collection.Type) -> BrokeBoys_FC.Collection",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Collection",
+                  "printedName": "BrokeBoys_FC.Collection",
+                  "usr": "s:12BrokeBoys_FC10CollectionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "BrokeBoys_FC.Collection.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Collection",
+                      "printedName": "BrokeBoys_FC.Collection",
+                      "usr": "s:12BrokeBoys_FC10CollectionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12BrokeBoys_FC10CollectionO4newsyA2CmF",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO4newsyA2CmF",
+          "moduleName": "BrokeBoys_FC",
+          "fixedbinaryorder": 3
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(rawValue:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.Collection?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Collection",
+                  "printedName": "BrokeBoys_FC.Collection",
+                  "usr": "s:12BrokeBoys_FC10CollectionO"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:12BrokeBoys_FC10CollectionO8rawValueACSgSS_tcfc",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO8rawValueACSgSS_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "rawValue",
+          "printedName": "rawValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC10CollectionO8rawValueSSvp",
+          "mangledName": "$s12BrokeBoys_FC10CollectionO8rawValueSSvp",
+          "moduleName": "BrokeBoys_FC",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC10CollectionO8rawValueSSvg",
+              "mangledName": "$s12BrokeBoys_FC10CollectionO8rawValueSSvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:12BrokeBoys_FC10CollectionO",
+      "mangledName": "$s12BrokeBoys_FC10CollectionO",
+      "moduleName": "BrokeBoys_FC",
+      "declAttributes": [
+        "RawDocComment"
+      ],
+      "enumRawTypeName": "String",
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "RawRepresentable",
+          "printedName": "RawRepresentable",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "RawValue",
+              "printedName": "RawValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "usr": "s:SY",
+          "mangledName": "$sSY"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
         }
       ]
     },
@@ -2612,9 +4348,31 @@
             },
             {
               "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
             },
             {
               "kind": "TypeNominal",
@@ -2630,33 +4388,52 @@
             },
             {
               "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
             },
             {
               "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
             },
             {
               "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
-            },
-            {
-              "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
             }
           ],
           "declKind": "Constructor",
-          "usr": "s:12BrokeBoys_FC6PlayerV05aboutD09instagram4name7picture8telegram4wiki7youtubeACSS_S6Stcfc",
-          "mangledName": "$s12BrokeBoys_FC6PlayerV05aboutD09instagram4name7picture8telegram4wiki7youtubeACSS_S6Stcfc",
+          "usr": "s:12BrokeBoys_FC6PlayerV05aboutD09instagram4name7picture8telegram4wiki7youtubeACSSSg_AKS2SA3Ktcfc",
+          "mangledName": "$s12BrokeBoys_FC6PlayerV05aboutD09instagram4name7picture8telegram4wiki7youtubeACSSSg_AKS2SA3Ktcfc",
           "moduleName": "BrokeBoys_FC",
+          "implicit": true,
           "init_kind": "Designated"
         },
         {
@@ -2684,40 +4461,12 @@
           "implicit": true,
           "throwing": true,
           "init_kind": "Designated"
-        },
-        {
-          "kind": "Function",
-          "name": "encode",
-          "printedName": "encode(to:)",
-          "children": [
-            {
-              "kind": "TypeNominal",
-              "name": "Void",
-              "printedName": "()"
-            },
-            {
-              "kind": "TypeNominal",
-              "name": "Encoder",
-              "printedName": "Swift.Encoder",
-              "usr": "s:s7EncoderP"
-            }
-          ],
-          "declKind": "Func",
-          "usr": "s:12BrokeBoys_FC6PlayerV6encode2toys7Encoder_p_tKF",
-          "mangledName": "$s12BrokeBoys_FC6PlayerV6encode2toys7Encoder_p_tKF",
-          "moduleName": "BrokeBoys_FC",
-          "implicit": true,
-          "throwing": true,
-          "funcSelfKind": "NonMutating"
         }
       ],
       "declKind": "Struct",
       "usr": "s:12BrokeBoys_FC6PlayerV",
       "mangledName": "$s12BrokeBoys_FC6PlayerV",
       "moduleName": "BrokeBoys_FC",
-      "declAttributes": [
-        "RawDocComment"
-      ],
       "conformances": [
         {
           "kind": "Conformance",
@@ -2725,13 +4474,6 @@
           "printedName": "Decodable",
           "usr": "s:Se",
           "mangledName": "$sSe"
-        },
-        {
-          "kind": "Conformance",
-          "name": "Encodable",
-          "printedName": "Encodable",
-          "usr": "s:SE",
-          "mangledName": "$sSE"
         },
         {
           "kind": "Conformance",
@@ -2747,6 +4489,241 @@
       "name": "News",
       "printedName": "News",
       "children": [
+        {
+          "kind": "Var",
+          "name": "headerNews",
+          "printedName": "headerNews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC4NewsV06headerD0SSvp",
+          "mangledName": "$s12BrokeBoys_FC4NewsV06headerD0SSvp",
+          "moduleName": "BrokeBoys_FC",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC4NewsV06headerD0SSvg",
+              "mangledName": "$s12BrokeBoys_FC4NewsV06headerD0SSvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "image",
+          "printedName": "image",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC4NewsV5imageSSvp",
+          "mangledName": "$s12BrokeBoys_FC4NewsV5imageSSvp",
+          "moduleName": "BrokeBoys_FC",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC4NewsV5imageSSvg",
+              "mangledName": "$s12BrokeBoys_FC4NewsV5imageSSvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isNews",
+          "printedName": "isNews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC4NewsV02isD0Sbvp",
+          "mangledName": "$s12BrokeBoys_FC4NewsV02isD0Sbvp",
+          "moduleName": "BrokeBoys_FC",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC4NewsV02isD0Sbvg",
+              "mangledName": "$s12BrokeBoys_FC4NewsV02isD0Sbvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isNewsWithButton",
+          "printedName": "isNewsWithButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC4NewsV02isD10WithButtonSbvp",
+          "mangledName": "$s12BrokeBoys_FC4NewsV02isD10WithButtonSbvp",
+          "moduleName": "BrokeBoys_FC",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC4NewsV02isD10WithButtonSbvg",
+              "mangledName": "$s12BrokeBoys_FC4NewsV02isD10WithButtonSbvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "isVideo",
+          "printedName": "isVideo",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC4NewsV7isVideoSbvp",
+          "mangledName": "$s12BrokeBoys_FC4NewsV7isVideoSbvp",
+          "moduleName": "BrokeBoys_FC",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC4NewsV7isVideoSbvg",
+              "mangledName": "$s12BrokeBoys_FC4NewsV7isVideoSbvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
         {
           "kind": "Var",
           "name": "textNews",
@@ -2766,7 +4743,7 @@
           "declAttributes": [
             "HasStorage"
           ],
-          "fixedbinaryorder": 0,
+          "fixedbinaryorder": 5,
           "isLet": true,
           "hasStorage": true,
           "accessors": [
@@ -2795,56 +4772,9 @@
           ]
         },
         {
-          "kind": "Var",
-          "name": "picture",
-          "printedName": "picture",
-          "children": [
-            {
-              "kind": "TypeNominal",
-              "name": "String",
-              "printedName": "Swift.String",
-              "usr": "s:SS"
-            }
-          ],
-          "declKind": "Var",
-          "usr": "s:12BrokeBoys_FC4NewsV7pictureSSvp",
-          "mangledName": "$s12BrokeBoys_FC4NewsV7pictureSSvp",
-          "moduleName": "BrokeBoys_FC",
-          "declAttributes": [
-            "HasStorage"
-          ],
-          "fixedbinaryorder": 1,
-          "isLet": true,
-          "hasStorage": true,
-          "accessors": [
-            {
-              "kind": "Accessor",
-              "name": "Get",
-              "printedName": "Get()",
-              "children": [
-                {
-                  "kind": "TypeNominal",
-                  "name": "String",
-                  "printedName": "Swift.String",
-                  "usr": "s:SS"
-                }
-              ],
-              "declKind": "Accessor",
-              "usr": "s:12BrokeBoys_FC4NewsV7pictureSSvg",
-              "mangledName": "$s12BrokeBoys_FC4NewsV7pictureSSvg",
-              "moduleName": "BrokeBoys_FC",
-              "implicit": true,
-              "declAttributes": [
-                "Transparent"
-              ],
-              "accessorKind": "get"
-            }
-          ]
-        },
-        {
           "kind": "Constructor",
           "name": "init",
-          "printedName": "init(textNews:picture:)",
+          "printedName": "init(headerNews:image:isNews:isNewsWithButton:isVideo:textNews:)",
           "children": [
             {
               "kind": "TypeNominal",
@@ -2863,11 +4793,35 @@
               "name": "String",
               "printedName": "Swift.String",
               "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
             }
           ],
           "declKind": "Constructor",
-          "usr": "s:12BrokeBoys_FC4NewsV04textD07pictureACSS_SStcfc",
-          "mangledName": "$s12BrokeBoys_FC4NewsV04textD07pictureACSS_SStcfc",
+          "usr": "s:12BrokeBoys_FC4NewsV06headerD05image02isD00gD10WithButton0G5Video04textD0ACSS_SSS3bSStcfc",
+          "mangledName": "$s12BrokeBoys_FC4NewsV06headerD05image02isD00gD10WithButton0G5Video04textD0ACSS_SSS3bSStcfc",
           "moduleName": "BrokeBoys_FC",
           "implicit": true,
           "init_kind": "Designated"
@@ -3379,6 +5333,440 @@
           "printedName": "Sendable",
           "usr": "s:s8SendableP",
           "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "BrokeBoys_FC",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NewsViewController",
+      "printedName": "NewsViewController",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "news",
+          "printedName": "news",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[BrokeBoys_FC.News]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "News",
+                  "printedName": "BrokeBoys_FC.News",
+                  "usr": "s:12BrokeBoys_FC4NewsV"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvp",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvp",
+          "moduleName": "BrokeBoys_FC",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[BrokeBoys_FC.News]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "News",
+                      "printedName": "BrokeBoys_FC.News",
+                      "usr": "s:12BrokeBoys_FC4NewsV"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvg",
+              "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvg",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[BrokeBoys_FC.News]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "News",
+                      "printedName": "BrokeBoys_FC.News",
+                      "usr": "s:12BrokeBoys_FC4NewsV"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvs",
+              "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvs",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvM",
+              "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC4newsSayAA0D0VGvM",
+              "moduleName": "BrokeBoys_FC",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidLoad",
+          "printedName": "viewDidLoad()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)viewDidLoad",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC11viewDidLoadyyF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLoad",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:numberOfRowsInSection:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)tableView:numberOfRowsInSection:",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC05tableE0_21numberOfRowsInSectionSiSo07UITableE0C_SitF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "tableView:numberOfRowsInSection:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override",
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:cellForRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableViewCell",
+              "printedName": "UIKit.UITableViewCell",
+              "usr": "c:objc(cs)UITableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)tableView:cellForRowAtIndexPath:",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC05tableE0_12cellForRowAtSo07UITableE4CellCSo0lE0C_10Foundation9IndexPathVtF",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "tableView:cellForRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsViewController",
+              "printedName": "BrokeBoys_FC.NewsViewController",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Style",
+              "printedName": "UIKit.UITableView.Style",
+              "usr": "c:@E@UITableViewStyle"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)initWithStyle:",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC5styleACSo07UITableE5StyleV_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithStyle:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(nibName:bundle:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NewsViewController",
+              "printedName": "BrokeBoys_FC.NewsViewController",
+              "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.Bundle?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bundle",
+                  "printedName": "Foundation.Bundle",
+                  "usr": "c:objc(cs)NSBundle"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)initWithNibName:bundle:",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithNibName:bundle:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "BrokeBoys_FC.NewsViewController?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NewsViewController",
+                  "printedName": "BrokeBoys_FC.NewsViewController",
+                  "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController(im)initWithCoder:",
+          "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "BrokeBoys_FC",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@BrokeBoys_FC@objc(cs)NewsViewController",
+      "mangledName": "$s12BrokeBoys_FC18NewsViewControllerC",
+      "moduleName": "BrokeBoys_FC",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewController",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewController",
+        "UIKit.UIViewController",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
         }
       ]
     }

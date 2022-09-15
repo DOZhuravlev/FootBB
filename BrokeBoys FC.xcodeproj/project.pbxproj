@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD227BF028C88697005EE1AD /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD227BEF28C88697005EE1AD /* NewsViewController.swift */; };
+		BD227BF228C8C697005EE1AD /* MatchesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD227BF128C8C697005EE1AD /* MatchesViewController.swift */; };
+		BD227BFB28D300A0005EE1AD /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD227BFA28D300A0005EE1AD /* NewsTableViewCell.swift */; };
+		BD227BFD28D330E6005EE1AD /* NewsImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD227BFC28D330E6005EE1AD /* NewsImageView.swift */; };
 		BDC33F3228B520DC006FD2F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */; };
 		BDC33F3428B520DC006FD2F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */; };
 		BDC33F3928B520DC006FD2F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDC33F3728B520DC006FD2F4 /* Main.storyboard */; };
@@ -23,6 +27,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD227BEF28C88697005EE1AD /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
+		BD227BF128C8C697005EE1AD /* MatchesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesViewController.swift; sourceTree = "<group>"; };
+		BD227BFA28D300A0005EE1AD /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		BD227BFC28D330E6005EE1AD /* NewsImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsImageView.swift; sourceTree = "<group>"; };
 		BDC33F2E28B520DC006FD2F4 /* BrokeBoys FC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BrokeBoys FC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,14 +59,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BD227BF328D2FF4C005EE1AD /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				BD227BEF28C88697005EE1AD /* NewsViewController.swift */,
+				BDC33F4928B5228C006FD2F4 /* SquadViewController.swift */,
+				BD227BF128C8C697005EE1AD /* MatchesViewController.swift */,
+				BDC33F4B28B522BA006FD2F4 /* TabBarViewController.swift */,
+				BDC33F4D28B522E4006FD2F4 /* DetailsPlayerViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		BD227BF428D2FF5C005EE1AD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BD227BFA28D300A0005EE1AD /* NewsTableViewCell.swift */,
+				BD227BFC28D330E6005EE1AD /* NewsImageView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BD227BF528D2FF70005EE1AD /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				BDC33F5A28BCEA11006FD2F4 /* NetworkManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		BD227BF628D2FF9E005EE1AD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				BDC33F4528B52225006FD2F4 /* Models.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		BD227BF728D2FFBB005EE1AD /* StoryBoards */ = {
+			isa = PBXGroup;
+			children = (
+				BDC33F3C28B520DD006FD2F4 /* LaunchScreen.storyboard */,
+				BDC33F3728B520DC006FD2F4 /* Main.storyboard */,
+			);
+			path = StoryBoards;
+			sourceTree = "<group>";
+		};
+		BD227BF828D2FFE6005EE1AD /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */,
+				BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */,
+				BDC33F5828BCE889006FD2F4 /* GoogleService-Info.plist */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		BD227BF928D3001B005EE1AD /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				BDC33F3A28B520DD006FD2F4 /* Assets.xcassets */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		BDC33F2528B520DC006FD2F4 = {
 			isa = PBXGroup;
 			children = (
-				BDC33F4D28B522E4006FD2F4 /* DetailsPlayerViewController.swift */,
-				BDC33F4B28B522BA006FD2F4 /* TabBarViewController.swift */,
-				BDC33F4928B5228C006FD2F4 /* SquadViewController.swift */,
-				BDC33F5A28BCEA11006FD2F4 /* NetworkManager.swift */,
-				BDC33F4528B52225006FD2F4 /* Models.swift */,
 				BDC33F3028B520DC006FD2F4 /* BrokeBoys FC */,
 				BDC33F2F28B520DC006FD2F4 /* Products */,
 			);
@@ -75,13 +142,14 @@
 		BDC33F3028B520DC006FD2F4 /* BrokeBoys FC */ = {
 			isa = PBXGroup;
 			children = (
-				BDC33F3128B520DC006FD2F4 /* AppDelegate.swift */,
-				BDC33F3328B520DC006FD2F4 /* SceneDelegate.swift */,
-				BDC33F3728B520DC006FD2F4 /* Main.storyboard */,
-				BDC33F3A28B520DD006FD2F4 /* Assets.xcassets */,
-				BDC33F3C28B520DD006FD2F4 /* LaunchScreen.storyboard */,
 				BDC33F3F28B520DD006FD2F4 /* Info.plist */,
-				BDC33F5828BCE889006FD2F4 /* GoogleService-Info.plist */,
+				BD227BF928D3001B005EE1AD /* Source */,
+				BD227BF828D2FFE6005EE1AD /* SupportingFiles */,
+				BD227BF728D2FFBB005EE1AD /* StoryBoards */,
+				BD227BF628D2FF9E005EE1AD /* Models */,
+				BD227BF528D2FF70005EE1AD /* Services */,
+				BD227BF428D2FF5C005EE1AD /* Views */,
+				BD227BF328D2FF4C005EE1AD /* ViewControllers */,
 			);
 			path = "BrokeBoys FC";
 			sourceTree = "<group>";
@@ -167,11 +235,15 @@
 			files = (
 				BDC33F4E28B522E4006FD2F4 /* DetailsPlayerViewController.swift in Sources */,
 				BDC33F3228B520DC006FD2F4 /* AppDelegate.swift in Sources */,
+				BD227BFB28D300A0005EE1AD /* NewsTableViewCell.swift in Sources */,
 				BDC33F4A28B5228C006FD2F4 /* SquadViewController.swift in Sources */,
+				BD227BF228C8C697005EE1AD /* MatchesViewController.swift in Sources */,
 				BDC33F4C28B522BA006FD2F4 /* TabBarViewController.swift in Sources */,
 				BDC33F5B28BCEA11006FD2F4 /* NetworkManager.swift in Sources */,
 				BDC33F3428B520DC006FD2F4 /* SceneDelegate.swift in Sources */,
+				BD227BFD28D330E6005EE1AD /* NewsImageView.swift in Sources */,
 				BDC33F4628B52225006FD2F4 /* Models.swift in Sources */,
+				BD227BF028C88697005EE1AD /* NewsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

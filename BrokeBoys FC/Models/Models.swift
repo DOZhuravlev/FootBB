@@ -5,7 +5,14 @@
 //  Created by Zhuravlev Dmitry on 23.08.2022.
 //
 
-struct Player: Codable {
+enum Collection: String {
+    case players
+    case matches
+    case merch
+    case news
+}
+
+struct Player: Decodable {
     
     let aboutPlayer: String?
     let instagram: String?
@@ -14,31 +21,15 @@ struct Player: Codable {
     let telegram: String?
     let wiki: String?
     let youtube: String?
-    
-    init(
-        aboutPlayer: String,
-        instagram: String,
-        name: String,
-        picture: String,
-        telegram: String,
-        wiki: String,
-        youtube: String
-    ) {
-        self.aboutPlayer = aboutPlayer
-        self.instagram = instagram
-        self.name = name
-        self.picture = picture
-        self.telegram = telegram
-        self.wiki = wiki
-        self.youtube = youtube
-    }
-    
-    
 }
 
 struct News: Decodable {
+    let headerNews: String
+    let image: String
+    let isNews: Bool
+    let isNewsWithButton: Bool
+    let isVideo: Bool
     let textNews: String
-    let picture: String
 }
 
 struct Match: Decodable {

@@ -1,7 +1,11 @@
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/DetailsPlayerViewController.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/AppDelegate.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/SquadViewController.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/TabBarViewController.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/NetworkManager.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/SceneDelegate.swift
-/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/Models.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/ViewControllers/DetailsPlayerViewController.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/SupportingFiles/AppDelegate.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/Views/NewsTableViewCell.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/ViewControllers/SquadViewController.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/ViewControllers/MatchesViewController.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/ViewControllers/TabBarViewController.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/Services/NetworkManager.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/SupportingFiles/SceneDelegate.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/Views/NewsImageView.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/Models/Models.swift
+/Users/zhuravlevdmitry/Desktop/BrokeBoys\ FC/BrokeBoys\ FC/ViewControllers/NewsViewController.swift

@@ -8,10 +8,14 @@
 import Firebase
 import FirebaseFirestore
 import FirebaseFirestoreSwift
+import Foundation
+
 
 class NetworkManager {
     
     static let shared = NetworkManager()
+    
+    private init() {}
     
     let db = Firestore.firestore()
     
@@ -38,6 +42,29 @@ class NetworkManager {
                 }
             }
         }
+    }
+}
+
+class ImageManager {
+    
+    
+    static let shared = ImageManager()
+    
+    private init() {}
+    
+    func getImage(imageUrl: URL, completion: @escaping (Data, URLResponse) -> Void) {
+       // guard let imageUrls = URL(string: imageUrl) else { return }
+        URLSession.shared.dataTask(with: imageUrl) { data, response, error in
+            guard let data = data, let response = response else {
+                print(error?.localizedDescription ?? "No error description")
+                return
+            }
+            guard imageUrl == response.url else { return }
+            
+            DispatchQueue.main.async {
+                completion(data, response)
+            }
+        }.resume()
     }
 }
 
